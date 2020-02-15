@@ -1,0 +1,32 @@
+{
+  "OPCUA": "opc.tcp://10.1.2.37:49321",
+  "MQTT": "mqtt://localhost",
+  "Database": {
+    "host": "localhost",
+    "user": "brent",
+    "password": "JesusLives1!",
+    "insecureAuth": true,
+    "database": "mach2"
+  },
+  "AvillaUser": "BuscheAvillaKorsws@plex.com",
+  "AvillaPassword": "5b11b45-f59f-",
+  "AlbionUser": "BuscheAlbionWs2@plex.com",
+  "AlbionPassword": "6afff48-ba19-",
+  "ProdWSDL": "../Config13318/plex-prod.wsdl",
+  "TestWSDL": "../Config13318/plex-test.wsdl",
+  "BPGServicesURI": "http://localhost:3030",
+  "BPGServicesPort": "3030",
+  "PORT": "80",
+  "NodeId":[
+  {
+    "PCN": "Avilla",
+    "NodeId": "ns=2;s=CNC362.CNC362.Cycle_Counter_Shift_SL",
+    "WorkCenter": "61314"
+  },
+  {
+    "PCN": "Avilla",
+    "NodeId": "ns=2;s=CNC422.CNC422.Cycle_Counter_Shift_SL",
+    "WorkCenter": "61420"
+  }
+]  
+}

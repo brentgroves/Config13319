@@ -1,0 +1,18 @@
+{
+  "OPCUA": "opc.tcp://10.1.2.37:49321",
+  "MQTT": "mqtt://ec2-3-15-151-115.us-east-2.compute.amazonaws.com",
+  "Database": {
+    "host": "ec2-3-15-151-115.us-east-2.compute.amazonaws.com",
+    "user": "brent",
+    "password": "JesusLives1!",
+    "insecureAuth": true,
+    "database": "mach2"
+  },
+  "AvillaUser": "BuscheAvillaKorsws@plex.com",
+  "AvillaPassword": "5b11b45-f59f-",
+  "AlbionUser": "BuscheAlbionWs2@plex.com",
+  "AlbionPassword": "6afff48-ba19-",
+  "ProdWSDL": "/home/brent/srcnode/Config13318/plex-prod.wsdl",
+  "TestWSDL": "/home/brent/srcnode/Config13318/plex-test.wsdl",
+  "WebSocket": "http://localhost:3030"
+}
