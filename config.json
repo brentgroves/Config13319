@@ -14,7 +14,7 @@
   "AlbionPassword": "6afff48-ba19-",
   "ProdWSDL": "../Config13318/plex-prod.wsdl",
   "TestWSDL": "../Config13318/plex-test.wsdl",
-  "BPGServicesURI": "http://localhost:3030",
+  "BPGServicesURI": "http://10.1.0.100:3030",
   "BPGServicesPort": "3030",
   "PORT": "80",
   "NodeId":[
