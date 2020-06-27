@@ -1,28 +1,61 @@
 {
-  "OPCUA": "opc.tcp://10.1.2.37:49321",
-  "MQTT": "mqtt://localhost",
-  "Database": {
-    "host": "localhost",
-    "user": "brent",
-    "password": "JesusLives1!",
-    "insecureAuth": true,
-    "database": "mach2"
-  },
-  "AvillaUser": "BuscheAvillaKorsws@plex.com",
-  "AvillaPassword": "5b11b45-f59f-",
-  "AlbionUser": "BuscheAlbionWs2@plex.com",
-  "AlbionPassword": "6afff48-ba19-",
-  "ProdWSDL": "../Config13318/plex-prod.wsdl",
-  "TestWSDL": "../Config13318/plex-test.wsdl",
-  "BPGServicesURI": "http://10.1.0.100:3030",
-  "BPGServicesPort": "3030",
-  "PORT": "80",
-  "NodeId":[
-  {
-    "PCN": "Avilla",
-    "NodeId": "ns=2;s=CNC103.CNC103.CNC103.PartCounter",
-    "CNC": "103",
-    "WorkCenter": "61420"
-  }
-]
+  "NodeId": [
+    {
+      "NodeId": "ns=2;s=CNC103.CNC103.CNC103.PartCounter",
+      "Plexus_Customer_No":"310507",
+      "PCN": "Avilla",
+      "Workcenter_Key": "61324",
+      "Workcenter_Code": "CNC103",        
+      "CNC": "103"
+    },
+    {
+      "NodeId": "ns=2;s=CNC177.CNC177.CNC177.PartCounter",
+      "Plexus_Customer_No":"310507",
+      "PCN": "Avilla",
+      "Workcenter_Key": "0",
+      "Workcenter_Code": "None",        
+      "CNC": "177"
+    },
+    {
+      "NodeId": "ns=2;s=CNC289.CNC289._System.Description",
+      "Plexus_Customer_No":"310507",
+      "PCN": "Avilla",
+      "WorkCenter_Key": "0", 
+      "Workcenter_Code": "61328 JT Knuckle CNC 289",  
+      "CNC": "289"
+    },
+    {
+      "NodeId": "ns=2;s=CNC289.CNC289._System.DeviceId",
+      "Plexus_Customer_No":"310507",
+      "PCN": "Avilla",
+      "WorkCenter_key": "0",
+      "Workcenter_Code": "61328 JT Knuckle CNC 289",  
+      "CNC": "289"
+    },
+    {
+      "NodeId": "ns=2;s=CNC360.CNC360.Cycle_Counter_Shift_SL",
+      "Plexus_Customer_No":"310507",
+      "PCN": "Avilla",
+      "Workcenter_Key": "61318",
+      "Workcenter_Code": "Honda Civic CNC 360 363",  
+      "CNC": "360"
+    },
+    {
+      "NodeId": "ns=2;s=CNC362.CNC362.Cycle_Counter_Shift_SL",
+      "Plexus_Customer_No":"310507",
+      "PCN": "Avilla",
+      "Workcenter_Key": "61314",
+      "Workcenter_Code": "Honda Civic CNC 359 362",  
+      "CNC": "362"
+    },
+    {
+      "NodeId": "ns=2;s=CNC422.CNC422.Cycle_Counter_Shift_SL",
+      "Plexus_Customer_No":"310507",
+      "PCN": "Avilla",
+      "WorkCenter": "61420",
+      "Workcenter_Code": "FWD BE 517",  
+      "CNC": "422"
+    }
+
+  ]
 }
