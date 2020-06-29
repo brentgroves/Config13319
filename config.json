@@ -78,7 +78,7 @@
       "name":"Cycle_Counter_Shift_SL",
       "plexus_Customer_No":"310507",
       "pcn": "Avilla",
-      "WorkCenter": "61420",
+      "workcenter_Key": "61420",
       "workcenter_Code": "FWD BE 517",  
       "cnc": "422",
       "value": 0,
