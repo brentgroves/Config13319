@@ -1,61 +1,88 @@
 {
-  "NodeId": [
+  "nodes": [
     {
-      "NodeId": "ns=2;s=CNC103.CNC103.CNC103.PartCounter",
-      "Plexus_Customer_No":"310507",
-      "PCN": "Avilla",
-      "Workcenter_Key": "61324",
-      "Workcenter_Code": "CNC103",        
-      "CNC": "103"
+      "updateId": 0,
+      "nodeId": "ns=2;s=cnc103.cnc103.cnc103.PartCounter",
+      "name":"PartCounter",
+      "plexus_Customer_No":"310507",
+      "pcn": "Avilla",
+      "workcenter_Key": "61324",
+      "workcenter_Code": "cnc103",        
+      "cnc": "103",
+      "value": 0,
+      "transDate": "2020-06-29 00:00:00"
     },
     {
-      "NodeId": "ns=2;s=CNC177.CNC177.CNC177.PartCounter",
-      "Plexus_Customer_No":"310507",
-      "PCN": "Avilla",
-      "Workcenter_Key": "0",
-      "Workcenter_Code": "None",        
-      "CNC": "177"
+      "updateId": 1,
+      "nodeId": "ns=2;s=cnc177.cnc177.cnc177.PartCounter",
+      "name":"PartCounter",
+      "plexus_Customer_No":"310507",
+      "pcn": "Avilla",
+      "workcenter_Key": "0",
+      "workcenter_Code": "None",        
+      "cnc": "177",
+      "value": 0,
+      "transDate": "2020-06-29 00:00:00"
     },
     {
-      "NodeId": "ns=2;s=CNC289.CNC289._System.Description",
-      "Plexus_Customer_No":"310507",
-      "PCN": "Avilla",
-      "WorkCenter_Key": "0", 
-      "Workcenter_Code": "61328 JT Knuckle CNC 289",  
-      "CNC": "289"
+      "updateId": 2,
+      "nodeId": "ns=2;s=cnc289.cnc289._System.Description",
+      "name":"Description",
+      "plexus_Customer_No":"310507",
+      "pcn": "Avilla",
+      "workcenter_Key": "0", 
+      "workcenter_Code": "61328 JT Knuckle cnc 289",  
+      "cnc": "289",
+      "value": 0,
+      "transDate": "2020-06-29 00:00:00"
     },
     {
-      "NodeId": "ns=2;s=CNC289.CNC289._System.DeviceId",
-      "Plexus_Customer_No":"310507",
-      "PCN": "Avilla",
-      "WorkCenter_key": "0",
-      "Workcenter_Code": "61328 JT Knuckle CNC 289",  
-      "CNC": "289"
+      "updateId": 3,
+      "nodeId": "ns=2;s=cnc289.cnc289._System.DeviceId",
+      "name":"DeviceId",
+      "plexus_Customer_No":"310507",
+      "pcn": "Avilla",
+      "workcenter_Key": "0",
+      "workcenter_Code": "61328 JT Knuckle cnc 289",  
+      "cnc": "289",
+      "value": 0,
+      "transDate": "2020-06-29 00:00:00"
     },
     {
-      "NodeId": "ns=2;s=CNC360.CNC360.Cycle_Counter_Shift_SL",
-      "Plexus_Customer_No":"310507",
-      "PCN": "Avilla",
-      "Workcenter_Key": "61318",
-      "Workcenter_Code": "Honda Civic CNC 360 363",  
-      "CNC": "360"
+      "updateId": 4,
+      "nodeId": "ns=2;s=cnc360.cnc360.Cycle_Counter_Shift_SL",
+      "name":"Cycle_Counter_Shift_SL",
+      "plexus_Customer_No":"310507",
+      "pcn": "Avilla",
+      "workcenter_Key": "61318",
+      "workcenter_Code": "Honda Civic cnc 360 363",  
+      "cnc": "360",
+      "value": 0,
+      "transDate": "2020-06-29 00:00:00"
     },
     {
-      "NodeId": "ns=2;s=CNC362.CNC362.Cycle_Counter_Shift_SL",
-      "Plexus_Customer_No":"310507",
-      "PCN": "Avilla",
-      "Workcenter_Key": "61314",
-      "Workcenter_Code": "Honda Civic CNC 359 362",  
-      "CNC": "362"
+      "updateId": 5,
+      "nodeId": "ns=2;s=cnc362.cnc362.Cycle_Counter_Shift_SL",
+      "name":"Cycle_Counter_Shift_SL",
+      "plexus_Customer_No":"310507",
+      "pcn": "Avilla",
+      "workcenter_Key": "61314",
+      "workcenter_Code": "Honda Civic cnc 359 362",  
+      "cnc": "362",
+      "value": 0,
+      "transDate": "2020-06-29 00:00:00"
     },
     {
-      "NodeId": "ns=2;s=CNC422.CNC422.Cycle_Counter_Shift_SL",
-      "Plexus_Customer_No":"310507",
-      "PCN": "Avilla",
+      "updateId": 6,
+      "nodeId": "ns=2;s=cnc422.cnc422.Cycle_Counter_Shift_SL",
+      "name":"Cycle_Counter_Shift_SL",
+      "plexus_Customer_No":"310507",
+      "pcn": "Avilla",
       "WorkCenter": "61420",
-      "Workcenter_Code": "FWD BE 517",  
-      "CNC": "422"
+      "workcenter_Code": "FWD BE 517",  
+      "cnc": "422",
+      "value": 0,
+      "transDate": "2020-06-29 00:00:00"
     }
-
   ]
 }
