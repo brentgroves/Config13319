@@ -47,10 +47,11 @@
       "OperationDescription": "MILL COMPLETE",
       "ToolID": 383256,
       "ToolNumber": 10,
-      "OpDescription": "86.925MM FINISH BORE",
+      "OpDescription": "86.925MM FINISH BORE",  
       "Count": 0,
       "transDate": "2020-06-29 00:00:00"      
     },
+
     {
       "CNC": 103,
       "workcenter_Key": 60740,
