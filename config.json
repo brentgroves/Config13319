@@ -53,16 +53,16 @@
             "Value": 0,
             "PublishedToolChange": 1,
             "RunningTotal": 0
-          }
-        ],
-        "dg2": [
+          },
           {
             "ToolListItemKey": 8, 
             "IncrementBy": 2,
             "Value": 0,
             "PublishedToolChange": 1,
             "RunningTotal": 0
-          },
+          }
+        ],
+        "dg2": [
           {
             "ToolListItemKey": 9, 
             "IncrementBy": 2,
@@ -83,9 +83,7 @@
             "Value": 0,
             "PublishedToolChange": 1,
             "RunningTotal": 0
-          }
-        ],
-        "dg3": [
+          },
           {
             "ToolListItemKey": 12, 
             "IncrementBy": 2,
