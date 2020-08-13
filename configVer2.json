@@ -2,99 +2,11 @@
   "Part": [
     {
       "Part_Key": 2809196,
-      "Assembly":
-      {
-        "dg1": [
-          {
-            "Assembly_Key": 1, 
-            "Current_Value": -1,
-            "IncrementBy": 2,
-            "PublishedToolChange": 1,
-            "RunningTotal": 0
-          },
-          {
-            "Assembly_Key": 2, 
-            "Current_Value": -1,
-            "IncrementBy": 2,
-            "PublishedToolChange": 1,
-            "RunningTotal": 0
-          },
-          {
-            "Assembly_Key": 3, 
-            "Current_Value": -1,
-            "IncrementBy": 2,
-            "PublishedToolChange": 1,
-            "RunningTotal": 0
-          },
-          {
-            "Assembly_Key": 4, 
-            "Current_Value": -1,
-            "IncrementBy": 2,
-            "PublishedToolChange": 1,
-            "RunningTotal": 0
-          },
-          {
-            "Assembly_Key": 5, 
-            "Current_Value": -1,
-            "IncrementBy": 2,
-            "PublishedToolChange": 1,
-            "RunningTotal": 0
-          },
-          {
-            "Assembly_Key": 6, 
-            "Current_Value": -1,
-            "IncrementBy": 2,
-            "PublishedToolChange": 1,
-            "RunningTotal": 0
-          },
-          {
-            "Assembly_Key": 7, 
-            "Current_Value": -1,
-            "IncrementBy": 2,
-            "PublishedToolChange": 1,
-            "RunningTotal": 0
-          }
-        ],
-        "dg2": [
-          {
-            "Assembly_Key": 8, 
-            "Current_Value": -1,
-            "IncrementBy": 2,
-            "PublishedToolChange": 1,
-            "RunningTotal": 0
-          },
-          {
-            "Assembly_Key": 9, 
-            "Current_Value": -1,
-            "IncrementBy": 2,
-            "PublishedToolChange": 1,
-            "RunningTotal": 0
-          },
-          {
-            "Assembly_Key": 10, 
-            "Current_Value": -1,
-            "IncrementBy": 2,
-            "PublishedToolChange": 1,
-            "RunningTotal": 0
-          }
-        ],
-        "dg3": [
-          {
-            "Assembly_Key": 11, 
-            "Current_Value": -1,
-            "IncrementBy": 2,
-            "PublishedToolChange": 1,
-            "RunningTotal": 0
-          },
-          {
-            "Assembly_Key": 12, 
-            "Current_Value": -1,
-            "IncrementBy": 2,
-            "PublishedToolChange": 1,
-            "RunningTotal": 0
-          }
-        ]
-      }
+      "Assembly": [1,2,3,4,5,6,7,8,9,10,11,12],
+      "Current_Value": [-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],
+      "IncrementBy":[2,2,2,2,2,2,2,2,2,2,2,2],
+      "PublishedToolChange":[1,1,1,1,1,1,1,1,1,1,1,1],
+      "RunningTotal":[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]
     }
   ],
   "nodes": [
