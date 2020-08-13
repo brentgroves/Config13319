@@ -1,14 +1,14 @@
 {
-  "ToolList": [
+  "Part": [
     {
-      "ToolListKey": 1,
-      "Datagram":
+      "Part_Key": 2809196,
+      "Assembly":
       {
         "dg1": [
           {
-            "ToolListItemKey": 1, 
+            "Assembly_Key": 1, 
             "IncrementBy": 2,
-            "Value": 0,
+            "Value": -1,
             "PublishedToolChange": 1,
             "RunningTotal": 0
           },
