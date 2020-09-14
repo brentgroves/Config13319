@@ -12,19 +12,6 @@
   ],
   "nodes": [
     {
-      "updateId": 0,
-      "nodeId": "ns=2;s=cnc103.cnc103.cnc103.PartCounter",
-      "name":"PartCounter",
-      "plexus_Customer_No":"310507",
-      "pcn": "Avilla",
-      "workcenter_Key": "61324",
-      "workcenter_Code": "cnc103",        
-      "cnc": "103",
-      "ToolListKey": 1,
-      "value": 0,
-      "transDate": "2020-06-29 00:00:00"
-    },
-    {
       "updateId": 1,
       "nodeId": "ns=2;s=cnc177.cnc177.cnc177.PartCounter",
       "name":"PartCounter",

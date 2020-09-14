@@ -51,7 +51,19 @@
             "Assembly_Key": 7, 
             "Current_Value": -1,
             "IncrementBy": 2,
-            "PublishedToolChange": 1,
+            "Pu    {
+              "updateId": 3,
+              "nodeId": "ns=2;s=cnc289.cnc289._System.DeviceId",
+              "name":"DeviceId",
+              "plexus_Customer_No":"310507",
+              "pcn": "Avilla",
+              "workcenter_Key": "0",
+              "workcenter_Code": "61328 JT Knuckle cnc 289",  
+              "cnc": "289",
+              "value": 0,
+              "transDate": "2020-06-29 00:00:00"
+            },
+        blishedToolChange": 1,
             "RunningTotal": 0
           }
         ],
